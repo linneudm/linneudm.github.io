@@ -1,18 +1,15 @@
 # Portfolio Template
 
-Estou compartilhando aqui no GitHub, este template minimalista que criei para o meu portfolio.  
-Fique à vontade para copiar, modificar ou usá-lo como quiser.  
-Demo: [https://felipecbarelli.github.io](https://felipecbarelli.github.io)  
+Demo: [https://LinneuDM.github.io](https://linneudm.github.io)  
 
-![Demonstração](https://raw.githubusercontent.com/felipecbarelli/portfolio-template/master/portfolio/demo.png)
+![Demonstração]()
 
 ## Créditos e Licença
 
-Não precisa de licença, você já é de casa. =)  
-Só não remova os créditos no rodapé da página.
+Apenas não remova os créditos do rodapé da página, por favor.
 
 ```html
-Template by Felipe Barelli. Available in GitHub.
+Template by LinneuDM. Available in GitHub.
 ```
 
-Desenvolvido por: [@felipecbarelli](https://github.com/felipecbarelli)
+Desenvolvido por: [@LinneuDM](https://github.com/LinneuDM)
